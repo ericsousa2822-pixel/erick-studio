@@ -1,0 +1,14 @@
+ERICK MELO STUDIO - Site
+
+Arquivos:
+- index.html : o site completo (HTML, CSS e JavaScript, com a sua foto embutida).
+
+Como publicar (gratuito):
+1. Netlify: acesse app.netlify.com/drop e arraste a PASTA com o index.html (ou este zip extraido).
+2. Vercel ou GitHub Pages também funcionam: basta enviar o index.html.
+3. Para ter endereço próprio (ex.: seudominio.com.br), registre um domínio e conecte na hospedagem.
+
+Importante:
+- O mapa dos estados do Brasil é carregado da internet (jsDelivr, pacote @svg-maps/brazil), então o site precisa de conexão para exibi-lo.
+- Mapa do Brasil: MapSVG, licença CC BY 4.0 (crédito já está no rodapé).
+- WhatsApp configurado: +55 99 98550-0211.
